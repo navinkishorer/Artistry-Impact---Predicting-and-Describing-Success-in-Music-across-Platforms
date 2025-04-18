@@ -6,20 +6,6 @@ This project explores the factors that influence the popularity of songs using d
 
 ---
 
-## 👨‍🎓 Project Info
-
-- **Course**: BAN 620 – Data Mining  
-- **Semester**: Fall 2023  
-- **Team Name**: Group 1  
-- **Contributors**:  
-  - Harshini Jawahar  
-  - Navin Kishore Ravi Kumar  
-  - Pranav Hegde  
-  - Prasad Dattatraya Pilankar  
-  - Rishab Reddy Bandi  
-
----
-
 ## 🎯 Objective
 
 To identify which audio and metadata attributes most strongly predict a song’s popularity and to evaluate whether past hits could still gain traction in the current digital music landscape.
