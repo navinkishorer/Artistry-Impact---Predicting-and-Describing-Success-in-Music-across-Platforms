@@ -75,8 +75,6 @@ https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 
 ```bash
 .
-├── Refactored_Final_code.ipynb   # Cleaned and well-commented notebook
+├── Predicting and Describing Success in Music across Platforms.ipynb   # Cleaned and well-commented notebook
 ├── README.md                     # Project overview and documentation
-├── old_songs_predictions.csv     # Neural Net predictions for old songs
-├── visualizations/               # EDA and clustering plots
 └── data/                         # Processed dataset used in this project
