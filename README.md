@@ -20,6 +20,8 @@ To identify which audio and metadata attributes most strongly predict a song’s
 - **Platforms**: Spotify & YouTube  
 - **Timeframe**: Data collected until February 7, 2023
 
+https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
+
 ---
 
 ## 🧪 Methodology
